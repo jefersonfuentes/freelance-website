@@ -1,4 +1,4 @@
 # freelancer-website
-<p>Portfolio freelance website, using HTML and pure CSS with git</p>
+<p>Freelancer portfolio website using HTML, pure CSS and Git</p>
 
-Ver [versión live](https://jf-freelancer-page.netlify.app/)
+Show [live](https://jf-freelancer-page.netlify.app/)
